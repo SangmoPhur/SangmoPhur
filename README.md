@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phur.Pronounced as Fh-uu-r. 
-- 👀 I’m interested in Machine learning, data science, Bioinforamtics. 
+- 👀 I’m interested in Machine learning, data science, Bioinformatics. 
 - 🌱 I’m currently learning Machine learning. 
 - 💞️ I’m looking to collaborate on ...bioinformatics, machine learning and python related projects. 
 - 📫 How to reach me ...
